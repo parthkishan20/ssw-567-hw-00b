@@ -169,16 +169,6 @@ ssw-567-hw-00b/
 
 ---
 
-## Deliverables Recap
-- ✅ GitHub repo with code and tests
-- ✅ Pylint report before and after fixes (`ss/analysis-before.png`, `ss/analysis-after.png`)
-- ✅ Coverage report before and after tests (`ss/coverage-before.png`, `ss/coverage-after.png`)
-- ✅ Comprehensive documentation with summary, tools used, issues fixed, and evidence (this README)
-- ✅ **Pylint Score:** 10.00/10 (target: ≥ 8.0) ✨
-- ✅ **Code Coverage:** 100% for main module, 94% overall (target: ≥ 80%) ✨
-
----
-
 ## Key Achievements
 🎯 **Static Analysis Excellence:** Achieved perfect 10/10 Pylint score  
 🎯 **Complete Test Coverage:** 100% coverage of triangle.py functionality  
