@@ -1,0 +1,12 @@
+[MASTER]
+# You can add packages to ignore here if needed
+
+[MESSAGES CONTROL]
+# Keep defaults; we won't disable big categories to preserve learning value
+
+[FORMAT]
+max-line-length=100
+
+[BASIC]
+# Allow common math-ish short names
+good-names=a,b,c,x,y,z
